@@ -1,4 +1,4 @@
-# Human-Activity-Recognition
+# FlowTrack: Customer Behavior Analytics
 
 Human Activity Recognition is a project about developing a system that constantly monitors and analyzes footage of security cameras that are commonly pre-installed at all the stores. Secondly, it checks for any suspicious activities and also keeps on analyzing the behavior of each customer. If any suspicious activity is detected, the software instantly recognizes and reports to the supervisor, who can review the footage, and act on it.
 
